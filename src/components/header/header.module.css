@@ -1,0 +1,23 @@
+.header {
+  background-color: rgb(56, 31, 56);
+  color: white;
+  font-size: 0.8rem;
+  padding: 0.6em;
+  text-align: center;
+  position: relative;
+}
+
+.logo {
+  width: 4em;
+}
+
+.logout {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  padding: 0.5em;
+  color: white;
+  background-color: rgb(180, 22, 22);
+  border: none;
+  cursor: pointer;
+}

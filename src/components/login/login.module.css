@@ -1,0 +1,26 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 30em;
+  padding: 1.5em 0;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 1em;
+}
+
+.button {
+  padding: 0.5em;
+  border-radius: 20px;
+  margin-bottom: 0.5em;
+  font-size: 1.2rem;
+  background-color: white;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: rgb(255, 232, 236);
+  transition: 0.2s ease-in-out;
+}
